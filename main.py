@@ -14,7 +14,7 @@ SCOPES = [
   'https://www.googleapis.com/auth/drive'
 ]
 
-SPREADSHEET_ID = "1Egm2YUAUuyQcucXoHBPI3Xw1X7msd19RboNwOr9LKcs"
+SPREADSHEET_ID = "__YOUR__SHEET__ID__"
 
 def collect_markets(path_file=None) -> set:
   if path_file == None:
